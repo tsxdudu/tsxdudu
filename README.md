@@ -18,4 +18,4 @@
   </ul>  
 </div>
 <hr>
-<img src="https://github-readme-stats.vercel.app/api?username=Matheus-Pedro&show_icons=true&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tsxdudu&show_icons=true&theme=dracula"/>
