@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @tsxdudu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-tsxdudu/tsxdudu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>Hello, welcome! I'm tsx.dudu 👋👋 </h1>
+<div>
+  <ul>
+<!--     <li>💻 I've been working with: </li>
+    <ul>
+      <li>Postgres</li>
+      <li>React</li>
+    </ul>
+    <li>✍️ I'm learning: </li>
+    <ul>
+      <li>Bootstrap</li>
+      <li>REST</li>
+    </ul> -->
+    <li>🤷‍♂️ I'm collaborating on projects at the company BNE (Banco Nacional de Empregos) and developing several integrative projects in my study environment </li>
+    <li>📫 How to contact me: matheus.caprioli.pedro@gmail.com </li>
+  </ul>  
+</div>
+<hr>
+<img src="https://github-readme-stats.vercel.app/api?username=Matheus-Pedro&show_icons=true&theme=dracula"/>
