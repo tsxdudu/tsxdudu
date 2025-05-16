@@ -10,7 +10,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tsxdudu&bg_color=080808&color=f0f0f0&line=00008B&point=00008B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-<a href="https://www.instagram.com/tsx.dudu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%2300008B?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/off.duxs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%2300008B?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://github.com/tsxdudu" target="_blank"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div> 
 
